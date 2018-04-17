@@ -1,6 +1,6 @@
-# post2018
+# 02-api
 
-> The 2018 conference post mortem page.
+> The 02-api assignment.
 
 ## Dev
 

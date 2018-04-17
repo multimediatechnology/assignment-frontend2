@@ -1,7 +1,7 @@
 {
-  "name": "post2018.conc.at",
+  "name": "02-api",
   "version": "1.0.0",
-  "description": "The 2018 conference post mortem page.",
+  "description": "The 02-api assignment.",
   "private": true,
   "scripts": {
     "build": "webpack --colors --mode=production",
@@ -11,18 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/conc-at/post2018.conc.at.git"
+    "url": "git+https://github.com/multimediatechnology/assignment-frontend2.git"
   },
   "keywords": [
-    "concat",
-    "conference"
+    "API",
+    "fetch",
+    "Webpack"
   ],
-  "author": "Hannes Moser <hannes@impossiblearts.com>",
+  "author": "Hannes Moser <hannes.moser@fh-salzburg.ac.at>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/conc-at/post2018.conc.at/issues"
-  },
-  "homepage": "https://github.com/conc-at/post2018.conc.at#readme",
   "devDependencies": {
     "autoprefixer": "^8.2.0",
     "babel-eslint": "^8.2.3",
