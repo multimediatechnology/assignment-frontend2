@@ -66,7 +66,7 @@ module.exports = {
     new CleanWebpackPlugin(['dist']),
     extractSass,
     new HtmlWebpackPlugin({
-      title: '.concat() 2018',
+      title: 'Formula 1',
       template: 'src/index.html'
     })
   ]
