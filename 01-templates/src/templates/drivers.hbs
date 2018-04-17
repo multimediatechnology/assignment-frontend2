@@ -1,0 +1,18 @@
+<table class="table table-condensed">
+  <thead>
+    <th>Name</th>
+    <th>Bio</th>
+  </thead>
+  <tbody>
+    {{#each drivers}}
+    <tr>
+      <td>
+        <a href="/drivers/{{driverId}}">{{givenName}} {{familyName}}</a>
+      </td>
+      <td>
+        <a href="{{url}}">Wikipedia page of {{givenName}} {{familyName}}</a>
+      </td>
+    </tr>
+    {{/each}}
+  </tbody>
+</table>
