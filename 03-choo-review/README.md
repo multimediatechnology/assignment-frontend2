@@ -5,5 +5,5 @@
 ## Start
 
 ```bash
-npm i && npm s
+npm i && npm start
 ```
