@@ -1,8 +1,8 @@
-# 02-router
+# 04-svg
 
 ## Assignment
 
-* Implement a router with pop and push state
+> Your SVG Playground
 
 ## Setup
 
